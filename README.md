@@ -1,0 +1,1 @@
+I developed three interactive websites using HTML, CSS, and JavaScript — a personal portfolio (My Digital Showcase) to showcase skills and projects; a dynamic movie fan page (Movie Buff Central) with character bios, trailers, and quizzes; and a cricket player showcase site (Cricket Legends Hub) featuring player stats, interactive maps, and fan engagement tools.
